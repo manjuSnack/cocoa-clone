@@ -4,6 +4,8 @@
   padding: 5px 3px;
   width: 100%;
   box-sizing: border-box;
+  position: fixed;
+  background-color: inherit;
 }
 
 .status-bar__column {
