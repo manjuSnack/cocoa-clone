@@ -32,6 +32,14 @@
   color: tomato;
 }
 
+.user-component__avatar {
+  transition: transform 0.5s ease-in-out;
+}
+
+.user-component__avatar:hover {
+  transform: scale(1.3);
+}
+
 .user-component__avatar--xl {
   width: 80px;
   height: 80px;
